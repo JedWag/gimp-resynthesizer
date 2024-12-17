@@ -31,8 +31,8 @@ msgid "The active layer has no alpha channel to heal."
 msgstr ""
 
 #: PluginScripts/plugin-heal-selection.py:162
-msgid "_Heal selection(scm)..."
-msgstr "Sintetiza seleccion(scm)..."
+msgid "_Heal selection..."
+msgstr "Sintetiza seleccion..."
 
 #: PluginScripts/plugin-heal-selection.py:167
 #: PluginScripts/plugin-heal-transparency.py:82
@@ -82,7 +82,7 @@ msgid ""
 msgstr ""
 
 #: PluginScripts/plugin-heal-transparency.py:77
-msgid "_Heal transparency(scm)..."
+msgid "_Heal transparency..."
 msgstr ""
 
 #: PluginScripts/plugin-map-style.py:281
@@ -101,7 +101,7 @@ msgid ""
 msgstr ""
 
 #: PluginScripts/plugin-map-style.py:381
-msgid "_Style(scm)..."
+msgid "_Style..."
 msgstr ""
 
 #: PluginScripts/plugin-map-style.py:386
@@ -137,7 +137,7 @@ msgid ""
 msgstr ""
 
 #: PluginScripts/plugin-render-texture.py:188
-msgid "_Texture(scm)..."
+msgid "_Texture..."
 msgstr ""
 
 #: PluginScripts/plugin-render-texture.py:194
@@ -153,7 +153,7 @@ msgid "Enlarge image and synthesize to sharpen."
 msgstr ""
 
 #: PluginScripts/plugin-resynth-enlarge.py:97
-msgid "_Enlarge & sharpen(scm)..."
+msgid "_Enlarge & sharpen..."
 msgstr ""
 
 #: PluginScripts/plugin-resynth-enlarge.py:102
@@ -165,7 +165,7 @@ msgid "Seamlessly fill with a pattern using synthesis."
 msgstr ""
 
 #: PluginScripts/plugin-resynth-fill-pattern.py:105
-msgid "_Fill with pattern seamless(scm)..."
+msgid "_Fill with pattern seamless..."
 msgstr ""
 
 #: PluginScripts/plugin-resynth-fill-pattern.py:110
@@ -178,7 +178,7 @@ msgstr ""
 
 #: PluginScripts/plugin-resynth-sharpen.py:99
 #, fuzzy
-msgid "_Sharpen by synthesis(scm)..."
+msgid "_Sharpen by synthesis..."
 msgstr "_Resintetiza..."
 
 #: PluginScripts/plugin-resynth-sharpen.py:103
@@ -197,7 +197,7 @@ msgid ""
 msgstr ""
 
 #: PluginScripts/plugin-uncrop.py:147
-msgid "_Uncrop(scm)..."
+msgid "_Uncrop..."
 msgstr ""
 
 #: PluginScripts/plugin-uncrop.py:152

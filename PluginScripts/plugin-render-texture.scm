@@ -256,7 +256,7 @@
  ;; func name
  "script-fu-render-texture"
  ;; menu label
- (SG_"_Texture(scm)...")
+ (SG_"_Texture...")
  ;; description
  (string-append
   (SG_"Create a new image with texture from the current image or selection. Optionally, create image edges suited for further, seamless tiling. ")
@@ -290,7 +290,7 @@
 
 (script-fu-menu-register "script-fu-render-texture"
 			 (string-append "<Image>/Filters/"
-					(SG_"Resynthesizer(scm)")))
+					(SG_"Resynthesizer")))
 
 script-fu-render-texture
 ))

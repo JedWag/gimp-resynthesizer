@@ -119,7 +119,7 @@
  ;; func name
  "script-fu-enlarge-resynthesized"
  ;; menu label
- (SG_"_Enlarge & sharpen(scm)...")
+ (SG_"_Enlarge & sharpen...")
  ;; description
  (string-append
   (SG_"Enlarge image and synthesize to sharpen.")
@@ -150,7 +150,7 @@
 
 (script-fu-menu-register "script-fu-enlarge-resynthesized"
 			 (string-append "<Image>/Filters/"
-					(SG_"Resynthesizer(scm)")))
+					(SG_"Resynthesizer")))
 
 script-fu-enlarge-resynthesized
 ))

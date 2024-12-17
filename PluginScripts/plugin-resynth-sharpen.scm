@@ -120,7 +120,7 @@
  ;; func name
  "script-fu-sharpen-resynthesized"
  ;; menu label
- (SG_"_Sharpen by synthesis(scm)...")
+ (SG_"_Sharpen by synthesis...")
  ;; description
  (string-append
   (SG_"Sharpen image by synthesis.")
@@ -151,7 +151,7 @@
 
 (script-fu-menu-register "script-fu-sharpen-resynthesized"
 			 (string-append "<Image>/Filters/"
-					(SG_"Resynthesizer(scm)")))
+					(SG_"Resynthesizer")))
 
 script-fu-sharpen-resynthesized
 ))

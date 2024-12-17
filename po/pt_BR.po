@@ -32,8 +32,8 @@ msgid "The active layer has no alpha channel to heal."
 msgstr ""
 
 #: PluginScripts/plugin-heal-selection.py:162
-msgid "_Heal selection(scm)..."
-msgstr "Restaurar seleção(scm)..."
+msgid "_Heal selection..."
+msgstr "Restaurar seleção..."
 
 #: PluginScripts/plugin-heal-selection.py:167 PluginScripts/plugin-heal-transparency.py:82
 msgid "Context sampling width (pixels)"
@@ -78,8 +78,8 @@ msgstr ""
 "furos."
 
 #: PluginScripts/plugin-heal-transparency.py:77
-msgid "_Heal transparency(scm)..."
-msgstr "Restaurar transparência(scm)..."
+msgid "_Heal transparency..."
+msgstr "Restaurar transparência..."
 
 #: PluginScripts/plugin-map-style.py:281
 msgid "The style source cannot be of mode INDEXED"
@@ -96,8 +96,8 @@ msgid ""
 msgstr ""
 
 #: PluginScripts/plugin-map-style.py:381
-msgid "_Style(scm)..."
-msgstr "Estilo(scm)..."
+msgid "_Style..."
+msgstr "Estilo..."
 
 #: PluginScripts/plugin-map-style.py:386
 msgid "Source of style"
@@ -134,8 +134,8 @@ msgid ""
 msgstr ""
 
 #: PluginScripts/plugin-render-texture.py:188
-msgid "_Texture(scm)..."
-msgstr "Textura(scm)..."
+msgid "_Texture..."
+msgstr "Textura..."
 
 #: PluginScripts/plugin-render-texture.py:194
 msgid "Ratio of size of new image to source selection"
@@ -150,8 +150,8 @@ msgid "Enlarge image and synthesize to sharpen."
 msgstr "Amplie a imagem e sintetize para torná-la mais nítida."
 
 #: PluginScripts/plugin-resynth-enlarge.py:97
-msgid "_Enlarge & sharpen(scm)..."
-msgstr "Ampliação & nitidez(scm)..."
+msgid "_Enlarge & sharpen..."
+msgstr "Ampliação & nitidez..."
 
 #: PluginScripts/plugin-resynth-enlarge.py:102
 msgid "Scale by"
@@ -162,8 +162,8 @@ msgid "Seamlessly fill with a pattern using synthesis."
 msgstr "Preencha perfeitamente com um padrão usando síntese."
 
 #: PluginScripts/plugin-resynth-fill-pattern.py:105
-msgid "_Fill with pattern seamless(scm)..."
-msgstr "_Preencher com padrão sem emenda(scm)..."
+msgid "_Fill with pattern seamless..."
+msgstr "_Preencher com padrão sem emenda..."
 
 #: PluginScripts/plugin-resynth-fill-pattern.py:110
 msgid "Pattern"
@@ -174,8 +174,8 @@ msgid "Sharpen image by synthesis."
 msgstr "Aumentar a nitidez da imagem por síntese."
 
 #: PluginScripts/plugin-resynth-sharpen.py:99
-msgid "_Sharpen by synthesis(scm)..."
-msgstr "Nitidez por síntese(scm)..."
+msgid "_Sharpen by synthesis..."
+msgstr "Nitidez por síntese..."
 
 #: PluginScripts/plugin-resynth-sharpen.py:103
 msgid "Sharpening"
@@ -195,8 +195,8 @@ msgstr ""
 "disso, se possível! "
 
 #: PluginScripts/plugin-uncrop.py:147
-msgid "_Uncrop(scm)..."
-msgstr "Retirar do corte(scm)..."
+msgid "_Uncrop..."
+msgstr "Retirar do corte..."
 
 #: PluginScripts/plugin-uncrop.py:152
 msgid "Percent enlargement"

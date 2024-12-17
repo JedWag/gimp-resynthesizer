@@ -170,7 +170,7 @@ query()
 
   gimp_plugin_menu_register(RESYNTH_CONTROLS_PDB_NAME, "<Image>/Filters/Map");
   gchar *menupath = g_strconcat("<Image>/Filters/",
-				_("Resynthesizer(scm)"),
+				_("Resynthesizer"),
 				"​",  // zero width space to suppress translation
 				NULL);
   gimp_plugin_menu_register(RESYNTH_CONTROLS_PDB_NAME, menupath);

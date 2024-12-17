@@ -90,7 +90,7 @@
  ;; func name
  "script-fu-heal-transparency"
  ;; menu label
- (SG_"_Heal transparency(scm)...")
+ (SG_"_Heal transparency...")
  ;; description
  (string-append
   (SG_"Removes alpha channel by synthesis.  Fill outward for edges, inward for holes.")
@@ -126,7 +126,7 @@
 
 (script-fu-menu-register "script-fu-heal-transparency"
 			 (string-append "<Image>/Filters/"
-					(SG_"Resynthesizer(scm)")))
+					(SG_"Resynthesizer")))
 
 script-fu-heal-transparency
 ))

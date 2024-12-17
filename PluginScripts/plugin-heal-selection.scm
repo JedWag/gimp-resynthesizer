@@ -238,7 +238,7 @@
  ;; func name
  "script-fu-heal-selection"
  ;; menu label
- (SG_"_Heal selection(scm)...")
+ (SG_"_Heal selection...")
  ;; description
  (string-append
   (SG_"Heal the selection from surroundings as if using the heal tool.")
@@ -276,7 +276,7 @@
 
 (script-fu-menu-register "script-fu-heal-selection"
 			 (string-append "<Image>/Filters/"
-					(SG_"Resynthesizer(scm)")))
+					(SG_"Resynthesizer")))
 
 script-fu-heal-selection
 ))

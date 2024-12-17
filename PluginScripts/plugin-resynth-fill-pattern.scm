@@ -117,7 +117,7 @@
  ;; func name
  "script-fu-fill-pattern-resynth"
  ;; menu label
- (SG_"_Fill with pattern seamless(scm)...")
+ (SG_"_Fill with pattern seamless...")
  ;; description
  (string-append
   (G_"Seamlessly fill with a pattern using synthesis.")
@@ -141,7 +141,7 @@
 
 (script-fu-menu-register "script-fu-fill-pattern-resynth"
 			 (string-append "<Image>/Filters/"
-					(SG_"Resynthesizer(scm)")))
+					(SG_"Resynthesizer")))
 
 script-fu-fill-pattern-resynth
 ))

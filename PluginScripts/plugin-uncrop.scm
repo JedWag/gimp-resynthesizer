@@ -250,7 +250,7 @@
  ;; func name
  "script-fu-uncrop"
  ;; menu label
- (SG_"_Uncrop(scm)...")
+ (SG_"_Uncrop...")
  ;; description
  (string-append
   (SG_ "Enlarge image by synthesizing a border that matches the edge, maintaining perspective.  Works best for small enlargement of natural edges. Undo a Crop instead, if possible!")
@@ -280,7 +280,7 @@
 
 (script-fu-menu-register "script-fu-uncrop"
 			 (string-append "<Image>/Filters/"
-					(SG_"Resynthesizer(scm)")))
+					(SG_"Resynthesizer")))
 
 script-fu-uncrop
 ))

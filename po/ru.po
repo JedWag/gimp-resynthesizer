@@ -34,8 +34,8 @@ msgid "The active layer has no alpha channel to heal."
 msgstr ""
 
 #: PluginScripts/plugin-heal-selection.py:162
-msgid "_Heal selection(scm)..."
-msgstr "Восстановить выделение(scm)…"
+msgid "_Heal selection..."
+msgstr "Восстановить выделение…"
 
 #: PluginScripts/plugin-heal-selection.py:167
 #: PluginScripts/plugin-heal-transparency.py:82
@@ -87,8 +87,8 @@ msgstr ""
 "предназначено для краёв, вовнутрь — для дыр."
 
 #: PluginScripts/plugin-heal-transparency.py:77
-msgid "_Heal transparency(scm)..."
-msgstr "Восстановить прозрачную область(scm)…"
+msgid "_Heal transparency..."
+msgstr "Восстановить прозрачную область…"
 
 #: PluginScripts/plugin-map-style.py:281
 msgid "The style source cannot be of mode INDEXED"
@@ -108,8 +108,8 @@ msgid ""
 msgstr ""
 
 #: PluginScripts/plugin-map-style.py:381
-msgid "_Style(scm)..."
-msgstr "Стиль(scm)…"
+msgid "_Style..."
+msgstr "Стиль…"
 
 #: PluginScripts/plugin-map-style.py:386
 msgid "Source of style"
@@ -147,8 +147,8 @@ msgid ""
 msgstr ""
 
 #: PluginScripts/plugin-render-texture.py:188
-msgid "_Texture(scm)..."
-msgstr "Текстура(scm)…"
+msgid "_Texture..."
+msgstr "Текстура…"
 
 #: PluginScripts/plugin-render-texture.py:194
 msgid "Ratio of size of new image to source selection"
@@ -163,8 +163,8 @@ msgid "Enlarge image and synthesize to sharpen."
 msgstr "Увеличить изображения и повысить резкость синтезом."
 
 #: PluginScripts/plugin-resynth-enlarge.py:97
-msgid "_Enlarge & sharpen(scm)..."
-msgstr "Увеличить размер и резкость(scm)…"
+msgid "_Enlarge & sharpen..."
+msgstr "Увеличить размер и резкость…"
 
 #: PluginScripts/plugin-resynth-enlarge.py:102
 msgid "Scale by"
@@ -175,8 +175,8 @@ msgid "Seamlessly fill with a pattern using synthesis."
 msgstr "Залить текстурой без видимых швов с помощью синтеза."
 
 #: PluginScripts/plugin-resynth-fill-pattern.py:105
-msgid "_Fill with pattern seamless(scm)..."
-msgstr "Залить _бесшовной текстурой(scm)…"
+msgid "_Fill with pattern seamless..."
+msgstr "Залить _бесшовной текстурой…"
 
 #: PluginScripts/plugin-resynth-fill-pattern.py:110
 msgid "Pattern"
@@ -187,8 +187,8 @@ msgid "Sharpen image by synthesis."
 msgstr "Увеличить резкость изображения."
 
 #: PluginScripts/plugin-resynth-sharpen.py:99
-msgid "_Sharpen by synthesis(scm)..."
-msgstr "Увеличить резкость синтезом(scm)…"
+msgid "_Sharpen by synthesis..."
+msgstr "Увеличить резкость синтезом…"
 
 #: PluginScripts/plugin-resynth-sharpen.py:103
 msgid "Sharpening"
@@ -209,8 +209,8 @@ msgstr ""
 "краёв."
 
 #: PluginScripts/plugin-uncrop.py:147
-msgid "_Uncrop(scm)..."
-msgstr "Обратное кадрирование(scm)…"
+msgid "_Uncrop..."
+msgstr "Обратное кадрирование…"
 
 #: PluginScripts/plugin-uncrop.py:152
 msgid "Percent enlargement"

@@ -34,8 +34,8 @@ msgstr "İyileşmek için önce bir bölge seçmelisiniz."
 
 # Menü Öğesi olduğu için başlık düzeni
 #: PluginScripts/plugin-heal-selection.scm:228
-msgid "_Heal selection(scm)..."
-msgstr "Seçimi _İyileştir (scm)..."
+msgid "_Heal selection..."
+msgstr "Seçimi _İyileştir ..."
 
 #: PluginScripts/plugin-heal-selection.scm:231
 msgid "Heal the selection from surroundings as if using the heal tool."
@@ -100,8 +100,8 @@ msgstr "Etkin katman iyileştirilecek alfa kanalı içermiyor."
 
 # Menü Öğesi olduğu için başlık düzeni
 #: PluginScripts/plugin-heal-transparency.scm:79
-msgid "_Heal transparency(scm)..."
-msgstr "Saydamlık _İyileştir (scm)..."
+msgid "_Heal transparency..."
+msgstr "Saydamlık _İyileştir ..."
 
 #: PluginScripts/plugin-heal-transparency.scm:82
 msgid ""
@@ -117,8 +117,8 @@ msgstr "Biçem kaynağı İNDEKLİ kipte olamaz"
 
 # Menü öğesi
 #: PluginScripts/plugin-map-style.scm:389
-msgid "_Style(scm)..."
-msgstr "_Biçem (scm)..."
+msgid "_Style..."
+msgstr "_Biçem ..."
 
 #: PluginScripts/plugin-map-style.scm:392
 msgid ""
@@ -152,8 +152,8 @@ msgid "Brightness only"
 msgstr "Sadece parlaklık"
 
 #: PluginScripts/plugin-render-texture.scm:246
-msgid "_Texture(scm)..."
-msgstr "_Doku (scm)..."
+msgid "_Texture..."
+msgstr "_Doku ..."
 
 #: PluginScripts/plugin-render-texture.scm:249
 msgid ""
@@ -179,8 +179,8 @@ msgstr "Dikişsiz döşeme için yeni görüntü kenarlarını uygun hale getir"
 
 # Menü öğesi olduğu için başlık düzeni tercih edildi.
 #: PluginScripts/plugin-resynth-enlarge.scm:109
-msgid "_Enlarge & sharpen(scm)..."
-msgstr "_Genişlet ve Keskinleştir (scm)..."
+msgid "_Enlarge & sharpen..."
+msgstr "_Genişlet ve Keskinleştir ..."
 
 #: PluginScripts/plugin-resynth-enlarge.scm:112
 msgid "Enlarge image and synthesize to sharpen."
@@ -191,8 +191,8 @@ msgid "Scale by"
 msgstr "Ölçek boyut"
 
 #: PluginScripts/plugin-resynth-fill-pattern.scm:107
-msgid "_Fill with pattern seamless(scm)..."
-msgstr "Desenle Dikişsiz Doldur (scm)..."
+msgid "_Fill with pattern seamless..."
+msgstr "Desenle Dikişsiz Doldur ..."
 
 #: PluginScripts/plugin-resynth-fill-pattern.scm:110
 msgid "Seamlessly fill with a pattern using synthesis."
@@ -204,8 +204,8 @@ msgstr "Desen"
 
 # Menü öğesi olduğu için başlık düzeni tercih edildi.
 #: PluginScripts/plugin-resynth-sharpen.scm:110
-msgid "_Sharpen by synthesis(scm)..."
-msgstr "Sentezleyerek _Keskinleştir (scm)..."
+msgid "_Sharpen by synthesis..."
+msgstr "Sentezleyerek _Keskinleştir ..."
 
 #: PluginScripts/plugin-resynth-sharpen.scm:113
 msgid "Sharpen image by synthesis."
@@ -220,8 +220,8 @@ msgid "A layer must be active, not a channel."
 msgstr "Bir kanal değil, bir katman etkin olmalıdır."
 
 #: PluginScripts/plugin-uncrop.scm:240
-msgid "_Uncrop(scm)..."
-msgstr "_Kırpmayı Kaldır (scm)..."
+msgid "_Uncrop..."
+msgstr "_Kırpmayı Kaldır ..."
 
 #: PluginScripts/plugin-uncrop.scm:243
 msgid ""

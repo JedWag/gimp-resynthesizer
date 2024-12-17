@@ -399,7 +399,7 @@
  ;; func name
  "script-fu-map-style"
  ;; menu label
- (SG_"_Style(scm)...")
+ (SG_"_Style...")
  ;; description
  (string-append
   (SG_"Transfer style (color and surface) from a chosen source to the active layer. ")
@@ -434,7 +434,7 @@
 
 (script-fu-menu-register "script-fu-map-style"
 			 (string-append "<Image>/Filters/"
-					(SG_"Resynthesizer(scm)")))
+					(SG_"Resynthesizer")))
 
 script-fu-map-style
 ))
